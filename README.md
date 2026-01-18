@@ -35,5 +35,5 @@ The effective sound speed squared $c_s^2$ remains positive throughout the transi
 | 1.5 (Past) | -1.0616 | 0.3673 | **Stable** (Self-Organization) |
 
 ## 🛠️ Installation & Usage
-(Add instructions for running `Ultimate_Joint_v2.py` and `NoGhost_Check.py`)
+(Add instructions for running `Final_test` and `Final_Test_NoGhost.py`)
 
