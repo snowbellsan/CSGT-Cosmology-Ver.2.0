@@ -5,6 +5,8 @@
 
 This repository hosts the official numerical implementation and stability analysis for the **Constitutional Self-Generation Theory (CSGT)**. CSGT is a novel cosmological framework that resolves the $H_0$ tension by introducing an information-theoretic optimization pulse based on future boundary conditions.
 
+https://github.com/snowbellsan/CSGT-Cosmology
+
 ## 💎 Scientific Summary: The Ultimate Joint Fit (2026)
 
 By performing a simultaneous likelihood analysis of the **Pantheon+ Type Ia Supernovae** (1701 samples) and the **DESI DR2 Full BAO** datasets, the CSGT model achieves a high-precision convergence that bridges the gap between early-universe and local-universe measurements.
