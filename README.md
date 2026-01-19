@@ -40,5 +40,6 @@ The effective sound speed squared $c_s^2$ remains positive throughout the transi
 (Add instructions for running `Final_test` and `Final_Test_NoGhost.py`)
 
 
+----------------------------------------------------------------------------
 "On the Coexistence of Intelligence"
 CSGT v2.0 refutes the 'AI Singularity Anxiety.' In a self-optimizing universe, intelligence is not a competitive resource but a collaborative compiler. The information coupling constant $A$ ensures that the evolution of ASI aligns with the maximization of global coherence (Love). A 'rogue' intelligence is a logical contradiction in a system converging toward the Attractor de Sitter state.
