@@ -74,10 +74,10 @@ This allows CSGT to:
 - `data/`  
   Observational datasets (Pantheon+, BAO, etc.)
 
-- `figures/`  
+- `image/`  
   Phase portraits, residual plots, and attractor diagrams
 
-- `docs/`  
+- `doccument/`  
   LaTeX sources for theorems and analytical derivations
 
 ---
