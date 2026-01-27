@@ -2,6 +2,8 @@
 
 ## Overview
 
+![01](analysis/csgt_comprehensive_analysis.png)
+
 Cosmic Self-Generating Theory (CSGT) is a new cosmological framework that treats the universe as a **self-optimizing quantum–information system** constrained not only by its initial conditions, but also by a **future boundary condition**.
 
 Instead of describing cosmic evolution purely as a bottom-up process from the Big Bang, CSGT formulates the universe as a **global boundary-value problem in spacetime**, where physical laws and cosmological parameters emerge to maximize long-term **information coherence**.
