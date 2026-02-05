@@ -144,7 +144,7 @@ This work is licensed under the [MIT License](LICENSE).
 
 ## Acknowledgments
 
-This theory emerged through collaborative exploration with advanced AI assistants (Claude, ChatGPT, Gemini), demonstrating the potential of human-AI co-creation in theoretical physics.
+This theory emerged through collaborative exploration with advanced AI assistants (Claude, ChatGPT, Gemini, Grok), demonstrating the potential of human-AI co-creation in theoretical physics.
 
 ---
 
